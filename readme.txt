@@ -1,4 +1,4 @@
-This project builds up a deep learning architecture for CNN from ground up and performs face recognition using a mini face images dataset.
+This project builds a deep learning architecture for CNN and performs face recognition using a mini face images dataset.
 
 Files 00.py 01.py 02.py are for pre-processing. There is no need to run these files since we have already run them and got the X and Y representations of the data. 
 
